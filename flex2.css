@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+.contain {
+    width: 320px;
+    height: 320px;
+
+
+    display: flex;
+    align-items :center;
+    justify-content:space-around;
+    flex-wrap : wrap;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: lightpink;
+    border-radius: 5px;
+  }
+
+  

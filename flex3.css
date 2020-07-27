@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+.contain1 {
+    width: 550px;
+    height: 110px;
+
+    display: flex;
+    align-items :center;
+    justify-content:flex-start;
+}
+.contain2 {
+    width: 550px;
+    height: 110px;
+
+    display: flex;
+    align-items :center;
+    justify-content: center;
+}
+.contain3 {
+    width: 550px;
+    height: 110px;
+
+    display: flex;
+    align-items :center;
+    justify-content: flex-end;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: lightpink;
+    margin : 5px;
+    border-radius: 5px;
+  }
+
+  
